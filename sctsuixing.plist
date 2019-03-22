@@ -13,18 +13,7 @@
 					<key>url</key>
 					<string>http://123.56.237.38:8832/static/ipa/sctshuixing.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>http://123.56.237.38:8832/static/ipa/sctshuixing57.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>http://123.56.237.38:8832/static/ipa/sctshuixing512.png</string>
-				</dict>
+				
 			</array>
 			<key>metadata</key>
 			<dict>
